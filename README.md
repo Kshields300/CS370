@@ -1,1 +1,8 @@
 # CS370
+
+This is an upload for the SNHU CS370 final project, using Keras to implement pathfinding for an agent to engage in a treasure hunt game.
+Code was provided by SNHU within a lab guide for completion of the project, with guidance on some changes and manipulations of key variables to adjust the effectiveness of the project.
+
+Computer Science runs large portions of the world, with IoT connecting innocuous appliances to the internet and the internet seeing large waves of increasing use of AI. This allows for imrpovement in quality of life for many users to be able to navigate the ever-increasing amounts of information on the internet, and use them effectively. This connection within the internet and between the internet and real world objects is largely built by CS engineers.
+Within problem solving, I tend to approach problems as an engineer incrementally, starting wtih the basic understanding of what platform or language will be most effective, then examining frameworks which may be options within that language, such as Object-Oriented or a Javascript Framework stack. From here I can begin writing design documents that will outline the program and begin building the larger program step-by-step from there
+Ethically, engineers have a dual responsibility, to complete the product which has been requested by an organization in a satisfactory and timely manner, while also doing so in a way that does not potentially cause harm to end users or infringe on their rights. This is largely done by maintaining an understanding of ethics and laws such as the GDPR, while also following an internal moral compass regarding more gray-area issues.
